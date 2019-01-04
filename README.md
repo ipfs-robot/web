@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 致力于分布式存储
+
 
 You can use the [editor on GitHub](https://github.com/ipfs-robot/yjftion.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
